@@ -1,0 +1,7 @@
+
+Disadvantage
+#This code is not importing additonal python libraries. 
+
+Advantage
+#Inbuilt libraries used are splitlines() and split(), str.join() and list.append() 
+
